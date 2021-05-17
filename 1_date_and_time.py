@@ -13,7 +13,7 @@ def print_days():
     Эта функция вызывается автоматически при запуске скрипта в консоли
     В ней надо заменить pass на ваш код
     """
-    print(2)
+    print(1)
 
 
 def str_2_datetime(date_string):
@@ -21,7 +21,7 @@ def str_2_datetime(date_string):
     Эта функция вызывается автоматически при запуске скрипта в консоли
     В ней надо заменить pass на ваш код
     """
-    pass
+    print(2)
 
 if __name__ == "__main__":
     print_days()
